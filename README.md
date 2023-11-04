@@ -8,7 +8,7 @@ For below functions we are implementing the code
 -Decompose function : v= max(R,G,B)
 ReadPPM file is to read input image, CreatePPM is for output image creation. In this program we are using .PPM format image.
 setter and getter functions are used in this code. we will push and pull image pixel vaues using this functions.
-main.c - In this file the actual logic is implemnted.
+bhava1.c - In this file the actual logic is implemnted.
 Refer outImage for images.
 
 Input Image :
